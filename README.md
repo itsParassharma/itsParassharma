@@ -1,7 +1,7 @@
 Hi 👋, I'm Paras
 Passionate Developer
 🔭 I'm currently working on Automation tools
-🌱 I'm currently learning .NET and TyepScript
+🌱 I'm currently learning .NET and TypeScript
 👯 I'm looking to collaborate on Open source projects
 💬 Ask me about React, Python, Node.js
 <h3 align="left">Connect with me:</h3>
