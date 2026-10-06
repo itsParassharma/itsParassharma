@@ -99,61 +99,15 @@ Python            █████████████████░░░  
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsParassharma&theme=github-dark-blue&hide_border=true" alt="Paras GitHub Streak" />
 
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/itsParassharma">
-  <img src="https://img.shields.io/badge/GitHub-itsParassharma-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://linkedin.com/in/paras25">
-  <img src="https://img.shields.io/badge/LinkedIn-Paras%20Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
-
----
-
-<details>
-<summary><b>🎮 A little more about me</b></summary>
-
 <br>
 
-```javascript
-const paras = {
-    role: "Developer",
-    interests: [
-        "Software Development",
-        "Automation",
-        "Open Source",
-        "Building useful tools"
-    ],
-    currentlyLearning: [
-        ".NET",
-        "TypeScript"
-    ],
-    languages: [
-        "C#",
-        "Python",
-        "JavaScript",
-        "TypeScript"
-    ],
-    goal: "Build things that make life easier 🚀"
-};
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsParassharma&amp;theme=github_dark" alt="Paras GitHub contribution activity graph" />
 
-</details>
+</div>
 
 ---
 
 <div align="center">
-
-### 💡 Automate the boring stuff. Build the interesting stuff.
 
 ⭐ Thanks for visiting my profile!
 
