@@ -1,14 +1,160 @@
-Hi 👋, I'm Paras
-Passionate Developer
-🔭 I'm currently working on Automation tools
-🌱 I'm currently learning .NET and TypeScript
-👯 I'm looking to collaborate on Open source projects
-💬 Ask me about React, Python, Node.js
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/itsParassharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="itsParassharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paras25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras25" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsParassharma&" alt="itsParassharma" /></p>
+<div align="center">
+
+# Hi 👋, I'm Paras
+
+### 👨‍💻 Passionate Developer | Automation Enthusiast
+
+Building useful tools, automating repetitive work, and continuously learning new technologies.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-itsParassharma-181717?style=for-the-badge&logo=github)](https://github.com/itsParassharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paras%20Sharma-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/paras25)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on **Automation Tools**
+- 🌱 I'm currently learning **.NET** and **TypeScript**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Python, Node.js**
+- ⚡ I enjoy turning repetitive tasks into automated workflows
+- 🛠️ I like building tools that make developers' lives easier
+
+---
+
+## 🧠 Currently Exploring
+
+```text
+Automation        ███████████████████░   95%
+.NET              ███████████████░░░░░   75%
+TypeScript        ██████████████░░░░░░   70%
+React             ████████████████░░░░   80%
+Python            █████████████████░░░   85%
+```
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=angular,azure,c,cs,dotnet,electron,git,graphql,js,linux,mysql,nextjs,nginx,nodejs,php,postgres,py,react,ts,vue&perline=11)](https://skillicons.dev)
+
+<br>
+
+<img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="45" height="45"/>
+
+</div>
+
+<details>
+<summary><b>🔍 View my tech stack</b></summary>
+
+<br>
+
+**Frontend**
+- React
+- Angular
+- Vue.js
+- Next.js
+- JavaScript
+- TypeScript
+
+**Backend**
+- .NET
+- C#
+- Node.js
+- Python
+- PHP
+- GraphQL
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+**DevOps & Infrastructure**
+- Azure
+- Git
+- Linux
+- Nginx
+
+**Automation**
+- Python
+- Zapier
+- Custom automation tooling
+
+**Desktop**
+- Electron
+
+</details>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsParassharma&theme=github-dark-blue&hide_border=true" alt="Paras GitHub Streak" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/itsParassharma">
+  <img src="https://img.shields.io/badge/GitHub-itsParassharma-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/paras25">
+  <img src="https://img.shields.io/badge/LinkedIn-Paras%20Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+<details>
+<summary><b>🎮 A little more about me</b></summary>
+
+<br>
+
+```javascript
+const paras = {
+    role: "Developer",
+    interests: [
+        "Software Development",
+        "Automation",
+        "Open Source",
+        "Building useful tools"
+    ],
+    currentlyLearning: [
+        ".NET",
+        "TypeScript"
+    ],
+    languages: [
+        "C#",
+        "Python",
+        "JavaScript",
+        "TypeScript"
+    ],
+    goal: "Build things that make life easier 🚀"
+};
+```
+
+</details>
+
+---
+
+<div align="center">
+
+### 💡 Automate the boring stuff. Build the interesting stuff.
+
+⭐ Thanks for visiting my profile!
+
+</div>
