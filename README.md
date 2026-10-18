@@ -8,9 +8,6 @@ Building useful tools, automating repetitive work, and continuously learning new
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-itsParassharma-181717?style=for-the-badge&logo=github)](https://github.com/itsParassharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paras%20Sharma-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/paras25)
-
 </div>
 
 ---
